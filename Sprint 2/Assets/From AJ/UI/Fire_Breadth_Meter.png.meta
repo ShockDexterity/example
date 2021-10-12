@@ -1,0 +1,1404 @@
+fileFormatVersion: 2
+guid: c402870f43895e34eb57c74f88188b62
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 856320894967642342
+    second: Fire_Breadth_Meter_0
+  - first:
+      213: -4628854191007156580
+    second: Fire_Breadth_Meter_1
+  - first:
+      213: 3088997905327738884
+    second: Fire_Breadth_Meter_2
+  - first:
+      213: -7681541787308393342
+    second: Fire_Breadth_Meter_3
+  - first:
+      213: -67668561290533312
+    second: Fire_Breadth_Meter_4
+  - first:
+      213: 5648698388912523129
+    second: Fire_Breadth_Meter_5
+  - first:
+      213: 1482632843635361571
+    second: Fire_Breadth_Meter_6
+  - first:
+      213: -3314949517913813737
+    second: Fire_Breadth_Meter_7
+  - first:
+      213: 245459477860130229
+    second: Fire_Breadth_Meter_8
+  - first:
+      213: 9073297860109984220
+    second: Fire_Breadth_Meter_9
+  - first:
+      213: 6356531396601035616
+    second: Fire_Breadth_Meter_10
+  - first:
+      213: 322590689358129084
+    second: Fire_Breadth_Meter_11
+  - first:
+      213: -5968018131524653137
+    second: Fire_Breadth_Meter_12
+  - first:
+      213: -1275839921496327637
+    second: Fire_Breadth_Meter_13
+  - first:
+      213: -3040449116580543496
+    second: Fire_Breadth_Meter_14
+  - first:
+      213: -7588421318178630923
+    second: Fire_Breadth_Meter_15
+  - first:
+      213: 4916245497312908498
+    second: Fire_Breadth_Meter_16
+  - first:
+      213: 4665950666194943316
+    second: Fire_Breadth_Meter_17
+  - first:
+      213: 7770239431657055180
+    second: Fire_Breadth_Meter_18
+  - first:
+      213: 2449160933192197624
+    second: Fire_Breadth_Meter_19
+  - first:
+      213: 4180429611278960913
+    second: Fire_Breadth_Meter_20
+  - first:
+      213: -8862330150470706682
+    second: Fire_Breadth_Meter_21
+  - first:
+      213: 3631323403019876980
+    second: Fire_Breadth_Meter_22
+  - first:
+      213: 4078877029119144845
+    second: Fire_Breadth_Meter_23
+  - first:
+      213: -1392723259279039845
+    second: Fire_Breadth_Meter_24
+  - first:
+      213: 6286898701076487658
+    second: Fire_Breadth_Meter_25
+  - first:
+      213: -5060484413395554019
+    second: Fire_Breadth_Meter_26
+  - first:
+      213: 8479667131523177372
+    second: Fire_Breadth_Meter_27
+  - first:
+      213: -8447828812240390194
+    second: Fire_Breadth_Meter_28
+  - first:
+      213: -3952758525168231571
+    second: Fire_Breadth_Meter_29
+  - first:
+      213: 2524594964802581490
+    second: Fire_Breadth_Meter_30
+  - first:
+      213: 3364525065191554797
+    second: Fire_Breadth_Meter_31
+  - first:
+      213: 1185644049154307569
+    second: Fire_Breadth_Meter_32
+  - first:
+      213: 6965438730854818600
+    second: Fire_Breadth_Meter_33
+  - first:
+      213: 8814731054454349054
+    second: Fire_Breadth_Meter_34
+  - first:
+      213: 2502976062760410743
+    second: Fire_Breadth_Meter_35
+  - first:
+      213: 5071594691650699530
+    second: Fire_Breadth_Meter_36
+  - first:
+      213: -7918354805476051184
+    second: Fire_Breadth_Meter_37
+  - first:
+      213: -9144684412075778454
+    second: Fire_Breadth_Meter_38
+  - first:
+      213: 1507543562469742904
+    second: Fire_Breadth_Meter_39
+  - first:
+      213: -4838643375081820854
+    second: Fire_Breadth_Meter_40
+  - first:
+      213: -4870730508415604039
+    second: Fire_Breadth_Meter_41
+  - first:
+      213: 5252902701849105486
+    second: Fire_Breadth_Meter_42
+  - first:
+      213: 8385221732980223602
+    second: Fire_Breadth_Meter_43
+  - first:
+      213: -9169664302157397347
+    second: Fire_Breadth_Meter_44
+  - first:
+      213: 490619671435605480
+    second: Fire_Breadth_Meter_45
+  - first:
+      213: 4995651449561667028
+    second: Fire_Breadth_Meter_46
+  - first:
+      213: -8335247536751713816
+    second: Fire_Breadth_Meter_47
+  - first:
+      213: -27940059095458542
+    second: Fire_Breadth_Meter_48
+  - first:
+      213: 7108386641857927366
+    second: Fire_Breadth_Meter_49
+  - first:
+      213: 8072684591554166138
+    second: Fire_Breadth_Meter_50
+  - first:
+      213: -2620473498066701223
+    second: Fire_Breadth_Meter_51
+  - first:
+      213: -2631110634559196851
+    second: Fire_Breadth_Meter_52
+  - first:
+      213: 837924785768819250
+    second: Fire_Breadth_Meter_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 428
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e87a46215342eb00800000000000000
+      internalID: 856320894967642342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 428
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96b0f353a103cfb0800000000000000
+      internalID: -4628854191007156580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 428
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4005cfa8a335eda20800000000000000
+      internalID: 3088997905327738884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 428
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cf928617ea56590800000000000000
+      internalID: -7681541787308393342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_4
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 428
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046e0d15dc79f0ff0800000000000000
+      internalID: -67668561290533312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_5
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 428
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977c372b145346e40800000000000000
+      internalID: 5648698388912523129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_6
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 428
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327863947be539410800000000000000
+      internalID: 1482632843635361571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 371
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d05601afeeef1d0800000000000000
+      internalID: -3314949517913813737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 371
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd1b98381c086300800000000000000
+      internalID: 245459477860130229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_9
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 371
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1ea25d454daed70800000000000000
+      internalID: 9073297860109984220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_10
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 371
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bb50a70afe63850800000000000000
+      internalID: 6356531396601035616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_11
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 371
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb72a07d5821a7400800000000000000
+      internalID: 322590689358129084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_12
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 371
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafe16911275d2da0800000000000000
+      internalID: -5968018131524653137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 371
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2af2f0e95e4b4ee0800000000000000
+      internalID: -1275839921496327637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 315
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3019033a72ec5d0800000000000000
+      internalID: -3040449116580543496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_15
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 315
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f216fb240380b690800000000000000
+      internalID: -7588421318178630923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_16
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 315
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d413ff7b330a3440800000000000000
+      internalID: 4916245497312908498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_17
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 315
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dfb0ed869c0c040800000000000000
+      internalID: 4665950666194943316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_18
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 315
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3e6a7389f65db60800000000000000
+      internalID: 7770239431657055180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_19
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 315
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f56fac74ea2df120800000000000000
+      internalID: 2449160933192197624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_20
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 315
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1198ec4259ed30a30800000000000000
+      internalID: 4180429611278960913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 259
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a95faceada20580800000000000000
+      internalID: -8862330150470706682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_22
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 259
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47aff8d356d056230800000000000000
+      internalID: 3631323403019876980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_23
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 259
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83b5231c051b9830800000000000000
+      internalID: 4078877029119144845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_24
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 259
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92af3c139d0cace0800000000000000
+      internalID: -1392723259279039845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_25
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 259
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed57882f0d8f3750800000000000000
+      internalID: 6286898701076487658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_26
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 259
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d113824dc3c85c9b0800000000000000
+      internalID: -5060484413395554019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_27
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 259
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b9ef33454dda570800000000000000
+      internalID: 8479667131523177372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 203
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7f91b247843ca80800000000000000
+      internalID: -8447828812240390194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_29
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 203
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b5370601bf429c0800000000000000
+      internalID: -3952758525168231571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_30
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 203
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f33cce9eb9290320800000000000000
+      internalID: 2524594964802581490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_31
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 203
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deef3a488b131be20800000000000000
+      internalID: 3364525065191554797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_32
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 203
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5f5eb1bf0447010800000000000000
+      internalID: 1185644049154307569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_33
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 203
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82369590f953aa060800000000000000
+      internalID: 6965438730854818600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_34
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 203
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc1b5b0137345a70800000000000000
+      internalID: 8814731054454349054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 146
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ed32eb77b5cb220800000000000000
+      internalID: 2502976062760410743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_36
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 146
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01c898608ce16640800000000000000
+      internalID: 5071594691650699530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_37
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 146
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017b716f14a5c1290800000000000000
+      internalID: -7918354805476051184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_38
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 146
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6edb235afd871180800000000000000
+      internalID: -9144684412075778454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_39
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 146
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8399f6cf1eedbe410800000000000000
+      internalID: 1507543562469742904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_40
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 146
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d63719c7fa9dcb0800000000000000
+      internalID: -4838643375081820854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_41
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 146
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baea39a860b76cb0800000000000000
+      internalID: -4870730508415604039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 90
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44d76f1d2f06e840800000000000000
+      internalID: 5252902701849105486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_43
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 90
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27eeb254dba4e5470800000000000000
+      internalID: 8385221732980223602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_44
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 90
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92045076eeceb080800000000000000
+      internalID: -9169664302157397347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_45
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 90
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5fcb3edf70fc600800000000000000
+      internalID: 490619671435605480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_46
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 90
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5d9c8768e145540800000000000000
+      internalID: 4995651449561667028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_47
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 90
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1e6f00780435c80800000000000000
+      internalID: -8335247536751713816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_48
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 90
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d9c9e0aacbc9ff0800000000000000
+      internalID: -27940059095458542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_49
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 34
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8d21a2dff06a260800000000000000
+      internalID: 7108386641857927366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_50
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 34
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dfa577ddfe70070800000000000000
+      internalID: 8072684591554166138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_51
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 34
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954b864cc3532abd0800000000000000
+      internalID: -2620473498066701223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_52
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 34
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41b85e61da6c7bd0800000000000000
+      internalID: -2631110634559196851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Breadth_Meter_53
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 34
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23aee343728e0ab00800000000000000
+      internalID: 837924785768819250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
